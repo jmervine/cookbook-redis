@@ -1,3 +1,5 @@
+# DEPRICATED - Use: http://community.opscode.com/cookbooks/redis
+
 # redis cookbook
 
 Install package installation of redis on hosts that match `platform_family` of `rhel` or `debian`.
