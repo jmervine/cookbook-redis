@@ -1,4 +1,5 @@
-# DEPRICATED - Use: http://community.opscode.com/cookbooks/redis
+# DEPRICATED 
+### Use: http://community.opscode.com/cookbooks/redis
 
 # redis cookbook
 
